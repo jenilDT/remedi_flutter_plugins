@@ -15,7 +15,7 @@ dependencies:
     sdk: flutter
 
   # video player
-  better_player: ^0.0.81
+  better_player: ^0.0.84
 
   # http
   http: ^0.13.4
