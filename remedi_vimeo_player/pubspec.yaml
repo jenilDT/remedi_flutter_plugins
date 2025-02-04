@@ -21,7 +21,7 @@ dependencies:
       ref: master
 
   # http
-  http: ^0.13.4
+  http: ^1.2.2
 
 dev_dependencies:
   flutter_test:
