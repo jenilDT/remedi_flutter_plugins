@@ -15,7 +15,10 @@ dependencies:
     sdk: flutter
 
   # video player
-  better_player_plus: ^1.0.8
+  better_player:
+    git:
+      url: https://github.com/jenilDT/betterplayer.git
+      ref: master
   # http
   http: ^1.2.2
 
